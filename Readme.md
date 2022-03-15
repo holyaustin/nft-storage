@@ -8,6 +8,7 @@ Get an API key for NFT.storage from https://nft.storage/login/
 
 ### set up .env file with:
 PRIVATE_KEY="Your Private Key"
+
 NFT_STORAGE_API_KEY="Your Api Key"
 
 ### Store asset in your asset folder using:
